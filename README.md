@@ -12,7 +12,7 @@
 
 Initially, I joined [Zetwerk](https://www.zetwerk.com/) as a Javascript Intern in March 2021, and subsequently, in July 2021, I got promoted as an Software Engineer.\
 
-🔭 My [Resume](https://github.com/soumyendra98/soumyendra98/blob/main/Soumyendra%20Shrivastava%20Resume%20DS.pdf).
+🔭 My [Resume](https://github.com/soumyendra98/soumyendra98/blob/main/Soumyendra%20Shrivastava%20DS.pdf).
 
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  -->
